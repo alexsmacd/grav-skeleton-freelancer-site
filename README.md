@@ -2,7 +2,7 @@
 
 ![Freelancer](assets/readme_1.png)
 
-This Grav skeleton is based around the [Freelancer Grav theme](https://github.com/yaroslav-v/grav-theme-freelancer) which in turn, is based on the [Jekyll Agency theme](https://github.com/jeromelachaud/freelancer-theme) by [Jerome Lachaud (jeromelachaud)](https://github.com/jeromelachaud), which originated from the [Freelancer Bootstrap theme by Start Bootstrap](http://startbootstrap.com/templates/freelancer/).
+This Grav skeleton is based around the [Freelancer Grav theme](https://github.com/yaroslav-v/grav-theme-freelancer) which in turn, is based on the [Jekyll Agency theme](https://github.com/jeromelachaud/freelancer-theme) by [Jerome Lachaud (jeromelachaud)](https://github.com/jeromelachaud), which originated from the [Freelancer Bootstrap theme by Start Bootstrap](https://startbootstrap.com/theme/freelancer).
 
 # Demo
 
